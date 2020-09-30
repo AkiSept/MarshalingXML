@@ -1,1 +1,2 @@
-# MarshalingXML
+# MarshalingXML  
+Маршалинг/демаршалинг xml
